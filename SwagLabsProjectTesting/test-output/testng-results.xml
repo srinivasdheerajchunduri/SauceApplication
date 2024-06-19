@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="31" passed="31" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-19T18:12:26 IST" name="Default suite" finished-at="2024-06-19T18:13:42 IST" duration-ms="75783">
+    <groups>
+    </groups>
+    <test started-at="2024-06-19T18:12:26 IST" name="Default test" finished-at="2024-06-19T18:13:42 IST" duration-ms="75783">
+      <class name="Testscenarios.TestMethods">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:26 IST" name="beforetest" finished-at="2024-06-19T18:12:29 IST" duration-ms="2994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="login1()[pri:1, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:29 IST" name="login1" finished-at="2024-06-19T18:12:30 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method signature="Clicklogin()[pri:2, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:30 IST" name="Clicklogin" finished-at="2024-06-19T18:12:30 IST" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clicklogin -->
+        <test-method signature="Clickopenmenu()[pri:3, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:30 IST" name="Clickopenmenu" finished-at="2024-06-19T18:12:30 IST" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clickopenmenu -->
+        <test-method signature="ClickAllItems()[pri:4, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:30 IST" name="ClickAllItems" finished-at="2024-06-19T18:12:35 IST" duration-ms="5091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAllItems -->
+        <test-method signature="ClickClose()[pri:5, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:35 IST" name="ClickClose" finished-at="2024-06-19T18:12:35 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickClose -->
+        <test-method signature="Clicktshirt()[pri:6, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:35 IST" name="Clicktshirt" finished-at="2024-06-19T18:12:35 IST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clicktshirt -->
+        <test-method signature="Addtshirt()[pri:7, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:35 IST" name="Addtshirt" finished-at="2024-06-19T18:12:35 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addtshirt -->
+        <test-method signature="Clickbackproducts()[pri:8, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:35 IST" name="Clickbackproducts" finished-at="2024-06-19T18:12:38 IST" duration-ms="3088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clickbackproducts -->
+        <test-method signature="openmenu()[pri:9, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:38 IST" name="openmenu" finished-at="2024-06-19T18:12:38 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openmenu -->
+        <test-method signature="Reset()[pri:10, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:38 IST" name="Reset" finished-at="2024-06-19T18:12:39 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Reset -->
+        <test-method signature="twitter()[pri:11, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:39 IST" name="twitter" finished-at="2024-06-19T18:12:45 IST" duration-ms="6099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitter -->
+        <test-method signature="facebook()[pri:12, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:45 IST" name="facebook" finished-at="2024-06-19T18:12:51 IST" duration-ms="6061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebook -->
+        <test-method signature="linkedin()[pri:13, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:51 IST" name="linkedin" finished-at="2024-06-19T18:12:57 IST" duration-ms="6054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkedin -->
+        <test-method signature="About()[pri:14, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:12:57 IST" name="About" finished-at="2024-06-19T18:13:01 IST" duration-ms="4230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- About -->
+        <test-method signature="Dropdown()[pri:15, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:01 IST" name="Dropdown" finished-at="2024-06-19T18:13:04 IST" duration-ms="3411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dropdown -->
+        <test-method signature="Selectbackpack()[pri:16, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:04 IST" name="Selectbackpack" finished-at="2024-06-19T18:13:10 IST" duration-ms="5072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selectbackpack -->
+        <test-method signature="Cartbackpack()[pri:17, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:10 IST" name="Cartbackpack" finished-at="2024-06-19T18:13:14 IST" duration-ms="4076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cartbackpack -->
+        <test-method signature="Selectbikelight()[pri:18, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:14 IST" name="Selectbikelight" finished-at="2024-06-19T18:13:18 IST" duration-ms="4082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selectbikelight -->
+        <test-method signature="Cartbikelight()[pri:19, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:18 IST" name="Cartbikelight" finished-at="2024-06-19T18:13:22 IST" duration-ms="4072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cartbikelight -->
+        <test-method signature="SelectRedTshirt()[pri:20, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:22 IST" name="SelectRedTshirt" finished-at="2024-06-19T18:13:26 IST" duration-ms="4091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectRedTshirt -->
+        <test-method signature="CartRedTshirt()[pri:21, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:26 IST" name="CartRedTshirt" finished-at="2024-06-19T18:13:26 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartRedTshirt -->
+        <test-method signature="Shopping()[pri:22, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:26 IST" name="Shopping" finished-at="2024-06-19T18:13:30 IST" duration-ms="4071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shopping -->
+        <test-method signature="removeRedTshirt()[pri:23, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:30 IST" name="removeRedTshirt" finished-at="2024-06-19T18:13:30 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeRedTshirt -->
+        <test-method signature="back()[pri:24, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:30 IST" name="back" finished-at="2024-06-19T18:13:35 IST" duration-ms="5030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- back -->
+        <test-method signature="cart()[pri:25, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:35 IST" name="cart" finished-at="2024-06-19T18:13:39 IST" duration-ms="4070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="payment()[pri:26, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:39 IST" name="payment" finished-at="2024-06-19T18:13:39 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method signature="PCode()[pri:29, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:39 IST" name="PCode" finished-at="2024-06-19T18:13:39 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PCode -->
+        <test-method signature="checkButton()[pri:30, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:39 IST" name="checkButton" finished-at="2024-06-19T18:13:41 IST" duration-ms="2021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkButton -->
+        <test-method signature="FName()[pri:31, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:41 IST" name="FName" finished-at="2024-06-19T18:13:41 IST" duration-ms="85" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FName -->
+        <test-method signature="LaName()[pri:32, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:41 IST" name="LaName" finished-at="2024-06-19T18:13:42 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaName -->
+        <test-method signature="forward()[pri:33, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:42 IST" name="forward" finished-at="2024-06-19T18:13:42 IST" duration-ms="283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forward -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:Testscenarios.TestMethods@22ff4249]" started-at="2024-06-19T18:13:42 IST" name="aftertest" finished-at="2024-06-19T18:13:42 IST" duration-ms="138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- Testscenarios.TestMethods -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

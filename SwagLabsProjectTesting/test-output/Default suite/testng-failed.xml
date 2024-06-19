@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Testscenarios.TestMethods">
+        <methods>
+          <include name="checkButton"/>
+          <include name="Clicktshirt"/>
+          <include name="Selectbikelight"/>
+          <include name="ClickClose"/>
+          <include name="Addtshirt"/>
+          <include name="Name"/>
+          <include name="cart"/>
+          <include name="back"/>
+          <include name="FName"/>
+          <include name="twitter"/>
+          <include name="CartRedTshirt"/>
+          <include name="linkedin"/>
+          <include name="Cartbackpack"/>
+          <include name="Clickopenmenu"/>
+          <include name="openmenu"/>
+          <include name="Shopping"/>
+          <include name="Reset"/>
+          <include name="payment"/>
+          <include name="PCode"/>
+          <include name="facebook"/>
+          <include name="beforetest"/>
+          <include name="Homepage"/>
+          <include name="LName"/>
+          <include name="aftertest"/>
+          <include name="payButton"/>
+          <include name="LaName"/>
+          <include name="About"/>
+          <include name="Dropdown"/>
+          <include name="Cartbikelight"/>
+          <include name="Clickbackproducts"/>
+          <include name="SelectRedTshirt"/>
+          <include name="End"/>
+          <include name="removeRedTshirt"/>
+          <include name="ClickAllItems"/>
+          <include name="login1"/>
+          <include name="Btn"/>
+          <include name="Selectbackpack"/>
+          <include name="Clicklogin"/>
+        </methods>
+      </class> <!-- Testscenarios.TestMethods -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
