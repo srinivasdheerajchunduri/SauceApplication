@@ -70,7 +70,7 @@ public void ClickonFirstname(String fname)
 {
 	   try {
 	   driver.findElement(FirstnameInCheckout).sendKeys(fname);
-	   driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
+	   driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 	   
 	   }
 	   catch(Exception e)
@@ -84,7 +84,7 @@ public void ClickonLastname(String lname)
 {
 	   try {
 		   driver.findElement(LastnameInCheckout).sendKeys(lname);
-		   driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
+		   driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		   
 		   }
 		   catch(Exception e)
@@ -322,10 +322,6 @@ public void AddTshirt()
 		   System.out.println("Exception caught :" + e.getMessage());
 	}
 }
-
-
-
-
 
 public void button()
 {

@@ -118,7 +118,7 @@ public class Login {
 		try 
 		{
 		driver.findElement(Logout).click();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 	    }
 	catch (Exception e) 
 	{

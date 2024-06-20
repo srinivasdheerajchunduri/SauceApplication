@@ -239,12 +239,18 @@ public class TestMethods {
 	}
 	
 	@Test(priority = 33)
-	public void forward()
+	public void open()
 	{
-		objrepo2=new ProductPage(driver);
-		objrepo2.ClickOnContinue();
+		objrepo1=new Login(driver);
+		objrepo1.ClickOnOpenMenu();
 	}
 	
+	@Test(priority = 34)
+	public void Logout()
+	{
+		objrepo1=new Login(driver);
+		objrepo1.ClickOnLogout();
+	}
 	
 	@AfterTest
 	public void aftertest()
