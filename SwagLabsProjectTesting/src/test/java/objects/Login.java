@@ -62,7 +62,7 @@ public class Login {
 		try 
 		{
 			driver.findElement(OpenMenu).click();
-			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(3));
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 		}
 		catch (Exception e) 
 		{
@@ -118,8 +118,7 @@ public class Login {
 		try 
 		{
 		driver.findElement(Logout).click();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
-	    }
+		Thread.sleep(3000);	    }
 	catch (Exception e) 
 	{
 		System.out.println("Exception caught :" + e.getMessage());
